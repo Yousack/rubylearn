@@ -1,1 +1,0 @@
-var search_data = {"index":{"searchIndex":["#readme.org#","readme.org","created.rid"],"longSearchIndex":["","",""],"info":[["#README.org#","","#README_org#.html","","<p>Learn You a Ruby in a University\n\n"],["README.org","","README_org.html","","<p>Learn You a Ruby in a University\n\n"],["created.rid","","doc/created_rid.html","",""]]}}
