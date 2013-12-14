@@ -1,3 +1,5 @@
+Heading を使う関係上 github で見ると面白い感じになってますが気にしない方向で。
+
 * 1-01.org
 ** TODO irb についての記述
 ** TODO Object#class についての記述
