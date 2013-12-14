@@ -1,0 +1,4 @@
+* 1-01.org
+** TODO irb についての記述
+** TODO Object#class についての記述
+** TODO #{式展開} についての記述
