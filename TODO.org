@@ -7,3 +7,7 @@ Heading を使う関係上 github で見ると面白い感じになってます�
 ** TODO るりまについての記述
 * others.org
 ** TODO 新全学計算機の Meadow はアホだから NT Emacs を入れよう (gvimでもよい)
+
+* <un named>
+** TODO nilとは何か・論理演算
+** TODO Windows-31JとShift_JIS、マジックコメント
