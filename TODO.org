@@ -1,7 +1,7 @@
-Heading を使う関係上 github で見ると面白い感じになってますが気にしない方向で。
+org の Heading を使う関係上 github で見ると面白い感じになってますが気にしない方向で。
 
 * 1-01.org
-** TODO irb についての記述
+** DONE irb についての記述
 ** TODO Object#class についての記述
 ** TODO #{式展開} についての記述
 ** TODO るりまについての記述
