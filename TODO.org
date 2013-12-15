@@ -1,13 +1,14 @@
 org の Heading を使う関係上 github で見ると面白い感じになってますが気にしない方向で。
 
-* 1-01.org
+* 1-01.md
 ** DONE irb についての記述
 ** TODO Object#class についての記述
 ** DONE #{式展開} についての記述
-** TODO るりまについての記述
-* others.org
+** DONE るりまについての記述
+* others.md
 ** TODO 新全学計算機の Meadow はアホだから NT Emacs を入れよう (gvimでもよい)
 
-* <un named>
 ** TODO nilとは何か・論理演算
 ** TODO Windows-31JとShift_JIS、マジックコメント
+* 2-02Fry.md
+** TODO 式と文の違い
