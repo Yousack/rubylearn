@@ -65,7 +65,8 @@ irbデモの3-4行目の部分に注目してください。 =irb(main):003:1> =
 
 
 #+BEGIN_SRC
-irb(main):001:0> "hoge123" =~ /^\w+$/                                                                                                                                         => 0
+irb(main):001:0> "hoge123" =~ /^\w+$/
+=> 0
 irb(main):002:0> "*****" =~ /^\w+$/
 => nil
 irb(main):003:0>
