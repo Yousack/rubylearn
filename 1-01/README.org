@@ -1,3 +1,7 @@
 # Ruby を学ぶために必要な道具
 
 最初のテキストは、とにかくがむしゃらにプログラムを書かせるような仕組みになっています。プログラミングの勉強において「写経」は大変重要ですが、写経させるプログラム例を作るのは至難の業です。この章では、そんな辛く苦しい時期を出来るだけ緩和させるような、便利な道具たちを紹介したいと思います。
+
+| [[https://github.com/Yousack/rubylearn/blob/master/1-01/01-irb.md][01-irb.md]]            | 01-irb.md            |
+| [[https://github.com/Yousack/rubylearn/blob/master/1-01/02-string_literal.md][02-string_literal.md]] | 02-string_literal.md |
+| [[https://github.com/Yousack/rubylearn/blob/master/1-01/03-ruby_manual.md][03-ruby_manual.md]]    | 03-ruby_manual.md    |
